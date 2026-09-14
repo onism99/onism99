@@ -20,17 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=onism99&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onism99&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🔧 Tech Stack
 
@@ -45,14 +34,6 @@
 ### [Rebuild-ProVG](https://github.com/bupt-wcm/Rebuild-ProVG)
 > An innovative project by BUPT-WCM team
 - 🌟 Stars: ![GitHub stars](https://img.shields.io/github/stars/bupt-wcm/Rebuild-ProVG)
-
----
-
-## 📝 Latest Activities
-
-- ⭐ Explore my repositories
-- 🔄 Contribute to open source
-- 📚 Share knowledge with community
 
 ---
 
