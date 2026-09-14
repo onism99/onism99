@@ -1,0 +1,23 @@
+{
+  "name": "onism99-notes",
+  "version": "1.0.0",
+  "description": "onism99 的个人知识库和笔记本",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "npm run build"
+  },
+  "keywords": [
+    "vuepress",
+    "notes",
+    "blog"
+  ],
+  "author": "onism99",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0",
+    "vuepress": "^2.0.0",
+    "vue": "^3.0.0"
+  }
+}

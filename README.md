@@ -1,52 +1,67 @@
-# 👋 Welcome to My GitHub Profile
+# onism99 的个人知识库
 
-<div align="center">
+一个用 VuePress 2 构建的个人知识库和笔记本，分享技术笔记、学习心得和项目经验。
 
-### Hi there, I'm onism99! 👨‍💻
+## 🚀 快速开始
 
-[![GitHub followers](https://img.shields.io/github/followers/onism99?style=social)](https://github.com/onism99)
-[![GitHub User's stars](https://img.shields.io/github/stars/onism99?style=social)](https://github.com/onism99)
+### 安装依赖
 
-</div>
+```bash
+npm install
+```
 
----
+### 开发模式
 
-## 🚀 About Me
+```bash
+npm run dev
+```
 
-- 🎓 BUPT Student | Developer | Tech Enthusiast
-- 💻 Passionate about Python & Open Source
-- 🌱 Currently learning VLM and WAM
-- 💬 Ask me about anything [here](https://github.com/onism99/issues)
+访问 `http://localhost:8080` 查看网站。
 
----
+### 构建生产版本
 
+```bash
+npm run build
+```
 
-## 🔧 Tech Stack
+输出文件在 `docs/.vuepress/dist` 目录。
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📝 项目结构
 
----
+```
+├── docs/
+│   ├── .vuepress/
+│   │   └── config.ts          # VuePress 配置
+│   ├── README.md              # 首页
+│   ├── notes/                 # 笔记
+│   ├── projects/              # 项目
+│   └── about/                 # 关于
+├── package.json
+└── README.md
+```
 
-## 📌 Featured Projects
+## 🎨 主题选择
 
-### [Rebuild-ProVG](https://github.com/bupt-wcm/Rebuild-ProVG)
-> An innovative project by BUPT-WCM team
-- 🌟 Stars: ![GitHub stars](https://img.shields.io/github/stars/bupt-wcm/Rebuild-ProVG)
+这个项目使用 VuePress 默认主题。你可以随时更换其他主题：
 
----
+- [vuepress-theme-hope](https://theme-hope.vuejs.press/zh/) - 功能丰富
+- [vuepress-theme-reco](https://reco.nicelinks.site/) - 简洁美观
+- 或自定义主题
 
-## 📫 Get in Touch
+## 📚 如何添加笔记
 
-- 📧 Email: zjyrrr@bupt.edu.cn
+1. 在 `docs/notes/` 目录下创建新的 `.md` 文件
+2. 编辑 `docs/.vuepress/config.ts` 中的 sidebar 配置
+3. 保存后自动重新加载
 
----
+## 🔧 部署到 GitHub Pages
 
-<div align="center">
+详见 [部署指南](./DEPLOY.md)（待添加）
 
-**⭐ If you like my work, consider giving a star!**
+## 📄 许可证
 
-![Profile views](https://komarev.com/ghpvc/?username=onism99&color=blue)
+MIT License
 
-</div>
+## 👨‍💻 作者
+
+onism99
