@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**onism99/onism99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Hi there, I'm onism99! 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/onism99?style=social)](https://github.com/onism99)
+[![GitHub User's stars](https://img.shields.io/github/stars/onism99?style=social)](https://github.com/onism99)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 BUPT Student | Developer | Tech Enthusiast
+- 💻 Passionate about Python & Open Source
+- 🌱 Currently learning advanced Python development
+- 💬 Ask me about anything [here](https://github.com/onism99/issues)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onism99&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onism99&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### [Rebuild-ProVG](https://github.com/bupt-wcm/Rebuild-ProVG)
+> An innovative project by BUPT-WCM team
+- 🌟 Stars: ![GitHub stars](https://img.shields.io/github/stars/bupt-wcm/Rebuild-ProVG)
+
+---
+
+## 📝 Latest Activities
+
+- ⭐ Explore my repositories
+- 🔄 Contribute to open source
+- 📚 Share knowledge with community
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your Profile](https://linkedin.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com)
+
+---
+
+<div align="center">
+
+**⭐ If you like my work, consider giving a star!**
+
+![Profile views](https://komarev.com/ghpvc/?username=onism99&color=blue)
+
+</div>
