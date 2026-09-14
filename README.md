@@ -15,7 +15,7 @@
 
 - 🎓 BUPT Student | Developer | Tech Enthusiast
 - 💻 Passionate about Python & Open Source
-- 🌱 Currently learning advanced Python development
+- 🌱 Currently learning VLM and WAM
 - 💬 Ask me about anything [here](https://github.com/onism99/issues)
 
 ---
@@ -58,9 +58,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com)
+- 📧 Email: zjyrrr@bupt.edu.cn
 
 ---
 
